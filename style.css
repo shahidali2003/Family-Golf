@@ -40,7 +40,7 @@ html,body{
     top: 0;
     left: 0;
     z-index: 20;
-    transition: all 0.4s linear;
+    transition: all 0.3s linear;
   mix-blend-mode: difference;
 }
 .blur {
